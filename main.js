@@ -21,3 +21,4 @@ btnEl.addEventListener('click', renderGame)
 
 // I want to explore the git features 
 // Add a comment from github website. After that, pull the changes into your local machine
+// Adding a commit with personal sing using gpg key 
