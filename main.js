@@ -18,3 +18,5 @@ function renderGame() {
 }
 
 btnEl.addEventListener('click', renderGame)
+
+// I want to explore the git features 
